@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|d:\\asp.netcore\\calculatorapp\\calculatorapp\\calculatorapp\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|d:\\asp.netcore\\calculatorapp\\calculatorapp\\calculatorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|d:\\asp.netcore\\calculatorapp\\calculatorapp\\calculatorapp\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|d:\\asp.netcore\\calculatorapp\\calculatorapp\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|d:\\asp.netcore\\calculatorapp\\calculatorapp\\calculatorapp\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\models\\calculatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|d:\\asp.netcore\\calculatorapp\\calculatorapp\\calculatorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|d:\\asp.netcore\\calculatorapp\\calculatorapp\\calculatorapp\\calculatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4438E348-4E6B-4B73-891C-99B40DEBEEF5}|CalculatorApp\\CalculatorApp.csproj|solutionrelative:calculatorapp\\calculatorapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculatorApp\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "CalculatorApp\\Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T09:37:29.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorApp",
+              "DocumentMoniker": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj",
+              "RelativeDocumentMoniker": "CalculatorApp\\CalculatorApp.csproj",
+              "ToolTip": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\CalculatorApp.csproj*",
+              "RelativeToolTip": "CalculatorApp\\CalculatorApp.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-09T07:13:18.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CalculatorApp\\appsettings.json",
+              "ToolTip": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\appsettings.json",
+              "RelativeToolTip": "CalculatorApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-09T08:31:19.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Program.cs",
+              "ToolTip": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\Program.cs",
+              "RelativeToolTip": "CalculatorApp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T08:03:41.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculatorApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CalculatorApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T07:07:34.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "CalculatorApp\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:50:49.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorModel.cs",
+              "DocumentMoniker": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\Models\\CalculatorModel.cs",
+              "RelativeDocumentMoniker": "CalculatorApp\\Models\\CalculatorModel.cs",
+              "ToolTip": "D:\\ASP.NETCore\\CalculatorApp\\CalculatorApp\\CalculatorApp\\Models\\CalculatorModel.cs",
+              "RelativeToolTip": "CalculatorApp\\Models\\CalculatorModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA3wA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:34:58.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
